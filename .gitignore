@@ -1,0 +1,20 @@
+## Visual Studio / .NET derleme çıktıları
+[Bb]in/
+[Oo]bj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+*.pdb
+*.cache
+packages/
+*.nupkg
+TestResults/
+.idea/
+*.swp
